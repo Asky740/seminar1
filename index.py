@@ -1,0 +1,12 @@
+#násobení
+print(3*5)
+#dělení
+print(3/5)
+#sčítání
+print(3+5)
+#odčítání
+print(3-5)
+#mocnění
+print(3**2)
+#odmocnění
+print(3**(1/2))
